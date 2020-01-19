@@ -1,3 +1,4 @@
-# java8 ejercicios
+# java8
+# Paradigma Funcional
 
 # Lambdas

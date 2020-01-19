@@ -8,3 +8,5 @@
  Streams
  
  Optional
+
+ Map

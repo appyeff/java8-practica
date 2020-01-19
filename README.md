@@ -2,6 +2,9 @@
 # Paradigma Declarativo
 
  Lambdas
+ 
  Coleccion
+ 
  Streams
+ 
  Optional

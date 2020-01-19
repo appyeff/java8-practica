@@ -1,3 +1,5 @@
 # Paradigma Funcional
 
  Lambdas
+ 
+ Streams

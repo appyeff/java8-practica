@@ -39,7 +39,9 @@
 
 # Paradigma Funcional
 
-| --------- |
+Es un paradigma de programación declarativa basado en el uso de funciones matemáticas, en contraste con la programación imperativa,
+que enfatiza los cambios de estado mediante la mutación de las variables
+
 | Paradigma de programación declarativa |
 | Semántica limpia |
 | Recursión |

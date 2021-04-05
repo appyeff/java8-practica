@@ -38,6 +38,12 @@
 
 
 # Paradigma Funcional
+
+| --------- |
+| Paradigma de programación declarativa |
+| Semántica limpia |
+| Recursión |
+
 # Paradigma Declarativo
 
  Lambdas

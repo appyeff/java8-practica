@@ -35,8 +35,6 @@
 ## Conexión entre Java y Bases de datos en MySQL
 
 
-
-
 # Paradigma Funcional
 
 Es un paradigma de programación declarativa basado en el uso de funciones matemáticas, en contraste con la programación imperativa,
@@ -48,18 +46,37 @@ que enfatiza los cambios de estado mediante la mutación de las variables
 
 # Paradigma Declarativo
 
- Lambdas
+## Lambdas
+
+ * Funciones anónimas 
+ * Esenciales para entender programación declarativa
+ * Parámetros = > expresión
  
- Coleccion
+### Sintaxis Lambda
  
- Streams
  
- Optional
+### Lambda Scope
+ 
+## Interface Default Methods
+ 
+## Interface funcionales
+ 
+## Method references
+ 
+## Colecciones -> forEach, removeIf, Sort
+ 
+## Streams
+ 
+### Streams paralelos
 
- Map
+## Map
+ 
+## Anotaciones
 
- DateAPI
+## DateAPI
 
- RxJava
+## High Order Functions
 
- uso del motor nashorn
+## RxJava
+
+## uso del motor nashorn

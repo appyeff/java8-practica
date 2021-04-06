@@ -56,6 +56,9 @@ que enfatiza los cambios de estado mediante la mutación de las variables
  ```
  Collections.sort(lista, (String p1, String p2) -> p1.compareTo(p2));
  ```
+  ```
+ Operacion operacion = (double x, double y) -> (x+y)/2;
+  ```
 ### Lambda Scope
  
 ## Interface Default Methods

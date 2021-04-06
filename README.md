@@ -53,8 +53,9 @@ que enfatiza los cambios de estado mediante la mutación de las variables
  * Parámetros = > expresión
  
 ### Sintaxis Lambda
- 
- 
+ ```
+ Collections.sort(lista, **(String p1, String p2) -> p1.compareTo(p2));**
+ ```
 ### Lambda Scope
  
 ## Interface Default Methods
@@ -79,4 +80,4 @@ que enfatiza los cambios de estado mediante la mutación de las variables
 
 ## RxJava
 
-## uso del motor nashorn
+## Uso del motor nashorn

@@ -54,7 +54,7 @@ que enfatiza los cambios de estado mediante la mutación de las variables
  
 ### Sintaxis Lambda
  ```
- Collections.sort(lista, **(String p1, String p2) -> p1.compareTo(p2));**
+ Collections.sort(lista, (String p1, String p2) -> p1.compareTo(p2));
  ```
 ### Lambda Scope
  
